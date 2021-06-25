@@ -18,5 +18,4 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
-test1
-test2
+print('welcomoe to Dabao')
