@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c32cc538-1923-469c-bf17-cfb815899410" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/practice_homework/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/practice_homework/practice_1_ssh_username_from_excel/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/practice_homework/practice_1_ssh_username_from_excel/excel_file/read_accounts.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/practice_homework/practice_1_ssh_username_from_excel/excel_file/write_iosuser.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/practice_homework/practice_1_ssh_username_from_excel/excel_file/write_pyxl.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/practice_homework/practice_1_ssh_username_from_excel/practice_0_parser_excel_return_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/practice_homework/practice_1_ssh_username_from_excel/practice_0_write_excel_openpyxl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/practice_homework/practice_1_ssh_username_from_excel/practice_1_0_ssh_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/practice_homework/practice_2_get_config_and_compare/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/practice_homework/practice_2_get_config_and_compare/db_file/config_db.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/practice_homework/practice_2_get_config_and_compare/practice_2_0_diff_conf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/practice_homework/practice_2_get_config_and_compare/practice_2_1_get_md5_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/practice_homework/practice_2_get_config_and_compare/practice_2_2_compare_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/practice_homework/practice_3_monitor_ssh_service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/practice_homework/practice_3_monitor_ssh_service/ssh_monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/ssh_sftp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/ssh_sftp/file_dir/upload_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/ssh_sftp/sftp_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/ssh_sftp/ssh_client_multi_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/ssh_sftp/ssh_client_netmiko.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/ssh_sftp/ssh_client_one_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/ssh_sftp/ssh_netmiko_textfsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_12_ssh/ssh_sftp/testfsm_template_(show ip interface brief).template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/attachment_dir/Logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/attachment_dir/syslog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/decorator_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/diff_router_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/modules/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/modules/mat_bing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/modules/syslog_bing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/smtp_send_mail_attachment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/smtp_send_mail_img.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/word_pdf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/word_pdf/create_word_for_syslog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/word_pdf/create_word_full.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/word_pdf/saved_pdf/syslog-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/word_pdf/saved_word/python-docx演示.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/word_pdf/saved_word/syslog-docx.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/word_pdf/src_img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/不推荐使用(备份)/smtp_send_mail_header_only.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/理论相关文件/qq邮箱SMTP设置1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/理论相关文件/qq邮箱SMTP设置2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/理论相关文件/文本格式的邮件.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_14_smtp/理论相关文件/邮件格式图解.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_15_pop3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_15_pop3/attachment_dir/Logo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_15_pop3/attachment_dir/Logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_15_pop3/attachment_dir/syslog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_15_pop3/pop3_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_15_pop3/不推荐使用(备份)/Mail_WriteDB(不推荐使用,暂时保留).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_15_pop3/不推荐使用(备份)/POP3_REC_Attachment(不推荐使用,暂时保留).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_15_pop3/不推荐使用(备份)/POP3_REC_MAIL(不推荐使用,暂时保留).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/net_15_pop3/不推荐使用(备份)/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/change_chaddr_to_mac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/change_ip_to_bytes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/change_mac_to_bytes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/checksum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/cidr_ip.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/decorator_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/get_ifname.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/get_ip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/get_ip_ifconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/get_ip_netifaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/get_mac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/get_mac_netifaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/ipv6_eui64.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/ipv6_solicited_node_multicast_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/ipv6_tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/ipv6_tools_kamene.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/minimumTFTP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/random_ip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/random_mac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/scapy_iface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/sort_ip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Protocol/tools/win_ifname.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../net_djg/qytdb/views/qyt_device_view_echarts_final_line_cpu_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../net_djg/qytdb/views/qyt_device_view_echarts_final_line_if_speed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASA_conn.py" beforeDir="false" afterPath="$PROJECT_DIR$/ASA_conn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASA_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/ASA_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linux_gw.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linux_gw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linux_os.popen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linux_os.popen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linux_ssh.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linux_ssh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/List_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mac_Address_Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mac_Address_Match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Network_Practice1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Network_Practice1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Print_QYT.py" beforeDir="false" afterPath="$PROJECT_DIR$/Print_QYT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_First.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_First.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random_IPv4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Random_IPv4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_ping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simple_ping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filecontrol.py" beforeDir="false" afterPath="$PROJECT_DIR$/filecontrol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/for_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/https_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/https_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/list_copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitor_http.py" beforeDir="false" afterPath="$PROJECT_DIR$/monitor_http.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/re_ip.py" beforeDir="false" afterPath="$PROJECT_DIR$/re_ip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub_word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ython-Py.py" beforeDir="false" afterPath="$PROJECT_DIR$/ython-Py.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonProject/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonProject/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="23RSNh4a6FLfHNHdcpjHIwIowkX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c32cc538-1923-469c-bf17-cfb815899410" name="Changes" comment="" />
+      <created>1641695367499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641695367499</updated>
+      <workItem from="1641695368890" duration="648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
